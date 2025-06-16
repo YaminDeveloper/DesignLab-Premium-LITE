@@ -1,12 +1,12 @@
 {
   "Title": "New Update Available (LITE)",
   "versionCode": "50",
-  "versionName": "5.1.3",
-  "updateSize": "10.2 MB",
-  "releaseDate": "Feb 15, 2024",
+  "versionName": "5.1.4",
+  "updateSize": "49 MB",
+  "releaseDate": "Jun 16, 2025",
   "Msg": "🚀 New Features Added!\n• Improved user interface\n• Added new features\n• Bug fixes and performance improvements\n• Enhanced security",
-  "downloadLink": "https://dl.NoGutsNoGlory.eu.org/1741925/google_1.0.apk?hash=uNV0TuF",
-  "Browser link": "https://www.designlabofficial.site/p/download.html",
-  "forceUpdate": false,
-  "Direct Function": true
+  "downloadLink": "https://dl.NoGutsNoGlory.eu.org/1793217/DesignLab+v5.1.4.apk?hash=zBQDKNp",
+  "Browser link": "https://www.designlabofficial.site/p/designlab-premium.html",
+  "forceUpdate": true,
+  "Direct Function": false
 }
